@@ -1,0 +1,1 @@
+.\resources\runtime\python.exe train.py

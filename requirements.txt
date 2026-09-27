@@ -1,0 +1,22 @@
+# @Author: 巧克力
+# @Testor: 巧克力
+
+# Python 3.10.x Required
+# GPU CUDA Env: CUDA 11.2 + cuDDN 8.1
+
+# cuDDN Archive: https://developer.nvidia.com/rdp/cudnn-archive?spm=5176.28103460.0.0.72ab29885FCbCd
+# CUDA 11.2 Archive: https://developer.nvidia.com/cuda-11.2.0-download-archive
+
+# WARNING: cuDDN need to download extra
+# WARNING: Only this CUDA and cuDDN version can enable GPU Ops
+
+# WARNING: DO NOT EDIT ANY WHEEL VERSION!!!
+# WARNING: DO NOT EDIT ANY WHEEL VERSION!!!
+# WARNING: DO NOT EDIT ANY WHEEL VERSION!!!
+pillow==12.3.0
+numpy==1.26.4
+tensorflow==2.10.0
+tensorflow-gpu==2.10.0
+jax==0.6.2
+jaxlib==0.6.2
+matplotlib==3.10.9
